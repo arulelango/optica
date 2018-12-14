@@ -1,5 +1,6 @@
 # optica
-Spring rest implementation
+
+This is a SpringBoot application. Look for "AtosApplication" and run it.
 
 This appliction runs on port 8082.
 
